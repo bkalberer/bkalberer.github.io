@@ -1,17 +1,17 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Associate Consultant (DFIR) | Palo Alto Networks (Unit 42)
+  from: 2021
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: 
+
+- title: BS Digital Forensics | Bloomsburg University of Pennsylvania
+  from: 2018
+  to: 2021
+  description: In May 2021, I finished my bachelor's degree in Digital Forensics from Bloomsburg University, where I graduated summa cum laude.
+               
+ 
+- title: IT Administrator | 70E Solutions
+  from: October 2017
+  to: January 2021
+  description: I did general system administration, network administration, and IT work for 70E Solutions 
+               for a few years during high school and college. Most of my work pertained to the administration 
+               of Windows and Linux PCs, and general IT infrastructure.
