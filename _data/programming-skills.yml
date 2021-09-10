@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
+- name: Computer Operating Systems
+  percentage: 100
+  color: secondary
 
-- name: Go
+- name: Incident Response
   percentage: 80
   color:
 
-- name: Python
+- name: Cyber Security
   percentage: 70
-  color: secondary
+  color: danger
