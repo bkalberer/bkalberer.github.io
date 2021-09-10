@@ -2,7 +2,8 @@
 title               : Me | benkalberer.com
 description         : >-
                       <strong>Ben Kalberer</strong><br>
-                      I do DFIR consulting at Palo Alto Networks. I also do other things.
+                      I do DFIR consulting at Palo Alto Networks. I also do other things.<br>
+                      <strong>This site is under construction.</strong>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
