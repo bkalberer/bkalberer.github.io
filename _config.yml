@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Me | benkalberer.com
 description         : >-
-                      Ben Kalberer
+                      <strong>Ben Kalberer</strong><br>
                       I do DFIR consulting at Palo Alto Networks. I also do other things.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
