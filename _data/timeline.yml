@@ -1,7 +1,12 @@
-- title: Associate Consultant (DFIR) | Palo Alto Networks/Unit 42
-  from: 2021
+- title: DFIR Consultant | Palo Alto Networks/Unit 42
+  from: August 2022
   to: present
-  description: Incoming DFIR consultant for PANW Unit 42 Security Consulting (formerly The Crypsis Group).
+  description: DFIR consultant for PANW Unit 42 Security Consulting, working on various case types including business email compromise and ransomware investigations.
+
+- title: Associate Consultant (DFIR) | Palo Alto Networks/Unit 42
+  from: August 2021
+  to: August 2022
+  description: Entry level DFIR consultant for PANW Unit 42 Security Consulting (formerly The Crypsis Group).
 
 - title: BS Digital Forensics | Bloomsburg University of Pennsylvania
   from: 2018
