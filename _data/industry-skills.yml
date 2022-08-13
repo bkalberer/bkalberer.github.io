@@ -2,8 +2,12 @@
   percentage: 100
   color: secondary
 
-- name: Incident Response
-  percentage: 80
+- name: DFIR
+  percentage: 95
+  color:
+  
+- name: Analytical Skill and Communication
+  percentage: 95
   color:
 
 - name: Cyber Security
