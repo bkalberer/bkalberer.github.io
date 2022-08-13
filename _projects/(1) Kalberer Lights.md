@@ -12,7 +12,7 @@ The answer is Kalberer Lights, an ongoing digital/electrical/high-tech Christmas
 
 ## Tech Stuff
 
-This display is powered by three Raspberry Pi computers, two Pi 3 Bs and one Pi 2. They are networked together via WiFi and running a custom open-source operating system design for holiday lighting called "Falcon" (or "Falcon Player"). Sequences (the timings of the lights to music) are either created or adapted from other Christmas light DIYers using the XLights for Windows software.
+This display is powered by three Raspberry Pi computers, two Pi 3 Bs and one Pi 2. They are networked together via WiFi and running a custom open-source operating system (based on Debian) designed for holiday lighting called "Falcon" (or "Falcon Player"). Sequences (the timings of the lights to music) are either created or adapted from other Christmas light DIYers using the XLights for Windows software.
 
 **NOTE:** Kalberer Lights is not for profit and no copyright infringement is intended when using popular Christmas songs for this display.
 
