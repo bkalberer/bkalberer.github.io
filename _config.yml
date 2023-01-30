@@ -2,8 +2,8 @@
 title               : Me | benkalberer.com
 description         : >-
                       <strong>Ben Kalberer</strong><br>
-                      I do DFIR consulting at Unit 42 by Palo Alto Networks. I also do other things.<br>
-                      <strong>This site is under construction.</strong>
+                      I do DFIR consulting at Unit 42 by Palo Alto Networks. I also do other things (and break things for fun).<br>
+                      <strong>This site is in a perpetual state of update and improvement.</strong>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : bkalberer/bkalberer.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : bkalberer/pfy_fork
@@ -27,13 +27,13 @@ author:
   image             : /assets/home.jpg
 # behance           : your_username
 # dribbble          : your_username
-  email             : bkalberer@outlook.com
+  email             : me@benkalberer.com
 # facebook          : your_username
 # github            : your_username
 # gitlab            : your_username
   instagram         : benkalberer
 # kaggle            : your_username
-  linkedin          : /in/benkalberer
+  linkedin          : benkalberer
 # medium            : your_username
 # soundcloud        : your_username
   spotify           : thefilmreel/playlist/2jCYi6c7F4v6zLsdS1C8dZ
