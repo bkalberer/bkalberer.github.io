@@ -1,3 +1,7 @@
+- name: Databases and Query Languages
+  percentage: 100
+  color: success
+  
 - name: Microsoft Office Applications
   percentage: 95
   color: info
