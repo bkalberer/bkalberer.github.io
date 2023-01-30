@@ -3,11 +3,11 @@
   color: secondary
 
 - name: DFIR
-  percentage: 95
+  percentage: 100
   color:
   
 - name: Analytical Skill and Communication
-  percentage: 95
+  percentage: 100
   color:
 
 - name: Cyber Security
